@@ -1,7 +1,14 @@
-### Hello World
+### Olá, sou Marcos Mateus! 
 
-  <div align="center">
-  <a href="https://github.com/mmvbs">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=mmvbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmvbs&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+Graduado em Tecnologia da Informação pela UFERSA e atualmente cursando Engenharia de Software na mesma instituição.
+
+Tenho interesse em Machine Learning, Ciência de Dados e desenvolvimento de aplicações web.
+
+---
+
+###  Tecnologias
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
